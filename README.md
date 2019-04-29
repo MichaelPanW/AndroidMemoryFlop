@@ -3,5 +3,5 @@
 
 可選規模大小,限制時間
 
-![image](https://github.com/MichaelPanW/AndroidMemoryFlop/blob/master/dist/Screenshot_20190429-111957.png)
-![image](https://github.com/MichaelPanW/AndroidMemoryFlop/blob/master/dist/Screenshot_20190429-112040.png)
+![image](https://github.com/MichaelPanW/AndroidMemoryFlop/blob/master/dist/Screenshot_20190429-111957.png =250x500)
+![image](https://github.com/MichaelPanW/AndroidMemoryFlop/blob/master/dist/Screenshot_20190429-112040.png =250x500)
