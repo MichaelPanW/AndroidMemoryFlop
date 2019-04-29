@@ -9,7 +9,7 @@
         android:roundIcon="@drawable/cards"
         android:supportsRtl="true"
         android:screenOrientation="portrait"
-        android:theme="@style/AppTheme">
+        android:theme="@style/Theme.AppCompat.Light.NoActionBar">
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

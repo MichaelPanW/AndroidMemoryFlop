@@ -38,6 +38,7 @@ public class MainActivity extends AppCompatActivity {
         spinner_time.setAdapter(timeAdapter);
 
     }
+
     void setOnClick(){
         button_submit.setOnClickListener(new View.OnClickListener() {
             @Override
